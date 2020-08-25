@@ -1,0 +1,6 @@
+
+
+java:S4276"cRefactor this code to use the more specialised Functional Interface 'UnaryOperator<PlayerMessages>'(î©é<8ÚÍó…Á.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(×Ûþòÿÿÿÿÿ8×¶²ØÁ.
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(äÆÎÂ8¼Ö³ØÁ.
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î©é<8Ã¡œ„Á.
