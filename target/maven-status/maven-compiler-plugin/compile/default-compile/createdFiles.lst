@@ -1,8 +1,0 @@
-com\staxter\player\MessageExchange.class
-com\staxter\player\Player.class
-com\staxter\Exception\PlayerSystemCreationException.class
-com\staxter\PlayerMain.class
-com\staxter\util\Constant\Constant.class
-com\staxter\PlayerMessages.class
-com\staxter\Exception\PlayerException.class
-com\staxter\communication\PlayerCommunication.class
